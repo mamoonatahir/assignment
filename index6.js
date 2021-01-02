@@ -1,4 +1,4 @@
-alert("Assignment 1 Task 8");
+alert("Assignment 1 Task 8 and 9");
 var a = prompt("Enter 1st number");
 var b = prompt("Enter 2nd number");
 a = parseFloat(a);
