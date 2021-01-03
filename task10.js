@@ -10,7 +10,8 @@ document.write("<br> Value after addition is: " + ' '+ b);
 b--;
 document.write(" <br> value after decrement is :" + " " + b );
 c = b%7;
-document.write("<br> The reminder is :  " + " " + c + " </h3>"); 
+document.write("<br> The reminder is :  " + " " + c + " </h3>");
+to 
 
 
 

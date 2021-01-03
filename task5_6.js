@@ -1,4 +1,4 @@
-alert("assignment 1 Task 5")
+alert("assignment 1 Task 5 & 6")
 var age =" I am 35 years old";
 alert(age);
 var birthYear = 1985
